@@ -2,7 +2,7 @@
 <head>
   <title>Skills Development</title>
 </head>
-<body  bgcolor="green"></body>
+<body  bgcolor="white"></body>
   <h1><marquee bgcolor=green> 
 <font color=red>
 ONLINE TRAINING  </font>
@@ -14,7 +14,7 @@ ONLINE TRAINING  </font>
     <input type="checkbox" name="skill" value="Automation"  /t  >Automation 
     <marquee width=300 height=25 direction=right behavior=alternate scrollamount=5>
 <font color=blue face="Monotype Corsiva" size=5> Trainer is </font>
- <input type="submit" value= "RAJU" </marquee>
+ <input type="submit" value= "vasisht" </marquee>
   </form>
  
 </body>
