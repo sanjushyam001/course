@@ -2,8 +2,8 @@
 <head>
   <title>Skills Development</title>
 </head>
-<body  bgcolor="purple"></body>
-  <h1><marquee bgcolor="yellow"> 
+<body  bgcolor="red"></body>
+  <h1><marquee bgcolor="brown"> 
 <font color=red>
 ONLINE TRAINING  </font>
 </marquee></h1>
